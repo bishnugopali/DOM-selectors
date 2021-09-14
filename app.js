@@ -22,5 +22,3 @@ btnUpdateHeading.addEventListener('click', () =>{
                                   
 
 });
-
-//selecting element by id
